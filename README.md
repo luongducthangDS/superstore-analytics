@@ -2,6 +2,8 @@
 
 Analysis of **9,994 order line items** ($2.30M gross sales) from the Tableau Sample Superstore dataset. It starts from a fundamental business question, models the data in DuckDB SQL, evaluates non-linear discount elasticity with econometric statistics, and delivers a [one-page decision memo](docs/decision_memo.md) and an interactive dashboard.
 
+![Dashboard](reports/figures/00_dashboard_preview.png)
+
 ## Executive Answer
 
 **Yes.** Sales discounts are destroying more value than they create. While revenue grew 20% YoY, deep discounts (>20%) caused **$156,132 in net bottom-line losses** across 1,871 order items. The erosion is heavily concentrated in specific sub-categories (*Tables*, *Bookcases*) and the Central sales region.
