@@ -68,15 +68,19 @@ Phân tích không nhìn biểu đồ rời rạc mà đi theo chuỗi 5 tình h
     $$\text{Profit} = \beta_0 + \beta_1 \cdot \text{Discount} + \beta_2 \cdot \text{Sales} + \sum \gamma_k \cdot \text{Category}_k + \epsilon$$
   * Kết quả hồi quy: $\beta_{\text{Discount}} = -1,842.1$ ($p < 0.001$, 95% CI: $[-2,105, -1,579]$). Kết luận: Chiết khấu là biến độc lập có tác động tiêu cực mạnh nhất đến lợi nhuận ròng.
 
+![Tables Break-even Regression](reports/figures/03_tables_breakeven_regression.png)
+
 ---
 
 # GIAI ĐOẠN 3 — INSIGHTS & STORYTELLING
 
 ### 07. Findings & Root Cause Analysis
-1. **The Toxic Discount Cliff:** Chiết khấu 0% mang lại biên lợi nhuận **+29.9%**; chiết khấu 11-20% mang lại **+18.3%**; nhưng vượt qua mốc 20%, biên lợi nhuận sụp đổ xuống **-38.2%**!
+1. **The Toxic Discount Cliff:** Chiết khấu 0% mang lại biên lợi nhuận **+29.5%**; chiết khấu 1-10% mang lại **+16.6%**; chiết khấu 11-20% mang lại **+11.6%**; nhưng vượt qua mốc 20%, biên lợi nhuận sụp đổ xuống **-37.3%**!
 2. **Value Destruction:** 1,871 đơn hàng (18.7%) bị bán lỗ, trực tiếp thiêu rụi **$156,132 USD** lợi nhuận ròng.
-3. **Kelly Williams / Central Region:** Khu vực Central có biên lợi nhuận chỉ đạt **7.92%** (so với West 14.94%). Riêng ngành hàng Furniture tại Central đã lỗ ròng **-$17,725 USD** do mức chiết khấu trung bình lên tới 36.5% cho các hợp đồng bàn làm việc tại Texas và Illinois.
+3. **Kelly Williams / Central Region:** Khu vực Central có biên lợi nhuận chỉ đạt **7.9%** (so với West 14.9%). Riêng ngành hàng Furniture tại Central đã lỗ ròng **-$17,725 USD** do mức chiết khấu trung bình lên tới 36.5% cho các hợp đồng bàn làm việc tại Texas và Illinois.
 4. **Phá sản chiến lược Loss-Leader:** Khách hàng B2B ở Texas/Illinois mua bàn ghế giảm giá 70-80% mà không hề mua kèm bất kỳ thiết bị văn phòng phẩm có lãi nào.
+
+![The Toxic Discount Cliff](reports/figures/01_discount_cliff_margin.png)
 
 ### 08. Data Visualization & Dashboard Features
 * **KPI Header Cards:** Tổng Gross Sales ($2.30M), Net Profit ($286k), Net Margin (12.5%), Tỷ lệ đơn hàng lỗ (18.7%).
@@ -85,19 +89,21 @@ Phân tích không nhìn biểu đồ rời rạc mà đi theo chuỗi 5 tình h
 * **Visual 3 (Heatmap & Map):** Lợi nhuận theo Khu vực và Bang, làm nổi bật điểm đỏ lỗ vốn tại Texas và Illinois.
 * **Visual 4 (Time-Series & Drill-down):** Xu hướng doanh thu vs lợi nhuận theo quý hỗ trợ lọc đa chiều.
 
+![Sub-Category Value Destruction vs Creation Matrix](reports/figures/02_subcategory_profit_matrix.png)
+
 ### 09. Standardized 5-Step Storytelling
 
 #### Câu chuyện 1: Bí ẩn tăng trưởng doanh thu không đi kèm lợi nhuận
 * **1. Question:** Vì sao doanh thu tăng trưởng 20% YoY nhưng dòng tiền và lợi nhuận ròng lại suy giảm?
 * **2. Evidence:** Doanh thu đạt kỷ lục $2,297,201 USD, nhưng có tới 18.7% đơn hàng bị bán âm vốn, gây thâm hụt -$156,132 USD.
-* **3. Investigation:** Phân rã theo dải chiết khấu cho thấy khi chiết khấu $\le 20\%$, margin đạt +24.5%. Nhưng khi chiết khấu $> 20\%$, margin âm sâu -38.2%.
+* **3. Investigation:** Phân rã theo dải chiết khấu cho thấy khi chiết khấu $\le 20\%$, margin dương. Nhưng khi chiết khấu $> 20\%$, margin âm sâu -37.3%.
 * **4. Insight:** Doanh nghiệp không gặp vấn đề về nhu cầu thị trường, mà đang gặp khủng hoảng chính sách giá do buông lỏng kiểm soát chiết khấu.
 * **5. Action:** Khống chế ngay mức giảm giá tối đa trên toàn hệ thống phần mềm bán hàng.
 
 #### Câu chuyện 2: Phân định ranh giới giữa Loss-Leader và Value-Destroyer
 * **1. Question:** Các danh mục bàn ghế (*Tables*) bán chạy có thực sự kéo theo doanh số các sản phẩm phụ kiện văn phòng khác không?
-* **2. Evidence:** *Tables* tạo ra $206,965 doanh thu nhưng lỗ ròng **-$17,725 USD** (margin -8.6%). Tỷ lệ đơn hàng Tables bán kèm sản phẩm công nghệ có lãi chỉ đạt 11.4%.
-* **3. Investigation:** Tính toán độ dốc hồi quy cho thấy điểm hòa vốn của *Tables* là **16.2%**. Tuy nhiên, mức giảm giá trung bình thực tế sales đang áp dụng là **26.1%**!
+* **2. Evidence:** *Tables* tạo ra $206,965 doanh thu nhưng lỗ ròng **-$17,726 USD** (margin -8.6%). Tỷ lệ đơn hàng Tables bán kèm sản phẩm công nghệ có lãi chỉ đạt 11.4%.
+* **3. Investigation:** Tính toán độ dốc hồi quy cho thấy điểm hòa vốn của *Tables* là **20.0%**. Tuy nhiên, mức giảm giá trung bình thực tế sales đang áp dụng là **26.1%**!
 * **4. Insight:** Giả thuyết "Loss-Leader" hoàn toàn bị bác bỏ. *Tables* là "Kẻ hủy diệt giá trị" (Value-Destroyer) vì khách sỉ chỉ săn hàng thanh lý giá rẻ.
 * **5. Action:** Áp trần chiết khấu 15% cho *Tables* và bắt buộc tạo gói Bundle nếu muốn giảm giá sâu hơn.
 
