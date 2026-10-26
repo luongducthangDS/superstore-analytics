@@ -1,0 +1,633 @@
+location_id,country,region,regional_manager,state,city,postal_code
+89c8d274e4c3929250f9cc708218b750,United States,West,Anna Andreadi,Utah,West Jordan,84084
+d0d1ae5cb962384826cd3eb5b43df3af,United States,West,Anna Andreadi,Utah,Orem,84057
+59bd6db5356c0c71c086aea260a5297b,United States,Central,Kelly Williams,Michigan,Westland,48185
+2ff23fa7bbce9783f4743d73946a1cea,United States,West,Anna Andreadi,California,Los Angeles,90004
+d23b612076ca9a9472691f76960aa388,United States,East,Chuck Magee,Ohio,Columbus,43229
+bc78f41822efe4ad88cb6d86b57d2228,United States,East,Chuck Magee,Ohio,Hamilton,45011
+760d127572c238389c496d59977f86bb,United States,East,Chuck Magee,Ohio,Akron,44312
+6fce99101c3a53d73b300fdf46130e0a,United States,Central,Kelly Williams,Minnesota,Lakeville,55044
+b7a083016b16d2b20128dde7440373be,United States,South,Cassandra Brandow,Florida,Saint Petersburg,33710
+0db6a09a81bba0f9f4404d709d7ac3fa,United States,West,Anna Andreadi,Colorado,Louisville,80027
+a7bb1875b4e8ea2272ee8a68c0f52994,United States,East,Chuck Magee,New York,New Rochelle,10801
+69eb7016092b82588bb91e479b7d3639,United States,West,Anna Andreadi,California,Los Angeles,90008
+b33816432f80c9e6568686c1ff38201c,United States,South,Cassandra Brandow,North Carolina,Jacksonville,28540
+23c28799ace2b5cc6c25f7159539c144,United States,Central,Kelly Williams,Iowa,Burlington,52601
+0579cdc64a640219660b16fe6cef2875,United States,Central,Kelly Williams,Missouri,Jefferson City,65109
+12e46684bd105f685be3ec7db6476779,United States,East,Chuck Magee,Pennsylvania,Allentown,18103
+0553984d9176e548e451135a2e0f0085,United States,Central,Kelly Williams,Oklahoma,Muskogee,74403
+5d515b7a8c65a060a17bd007a2d9ca3f,United States,East,Chuck Magee,Connecticut,Bristol,6010
+371b58b044ea5c351a995ad901e6268b,United States,South,Cassandra Brandow,Virginia,Charlottesville,22901
+d0c6bae5147f0815282fb96024521c6b,United States,South,Cassandra Brandow,South Carolina,Florence,29501
+a929e97fb390d41370b1799200c3736e,United States,South,Cassandra Brandow,Virginia,Chesapeake,23320
+39e29ccd566c39242ffa7b1631dff2f7,United States,East,Chuck Magee,New Hampshire,Dover,3820
+cd0bca699831d144ad16099f39ebd529,United States,South,Cassandra Brandow,Alabama,Huntsville,35810
+0ccc462da6faaef18310c2fb3ebb788b,United States,Central,Kelly Williams,Michigan,Midland,48640
+5d6fb7349f40628fd2aef65000df6bb8,United States,South,Cassandra Brandow,Alabama,Hoover,35244
+d24bc65194db4ad0b9b158184df115f6,United States,South,Cassandra Brandow,Florida,Pompano Beach,33068
+2c19ccf97dfa8aca4e390e3249d7f4a7,United States,West,Anna Andreadi,Oregon,Gresham,97030
+225024b53bb36e7c2270259a460a8635,United States,West,Anna Andreadi,California,Apple Valley,92307
+be1d9852d2580a429800723ce05f64fb,United States,Central,Kelly Williams,Iowa,Dubuque,52001
+b703a5d4dded48b5597391d43b517133,United States,Central,Kelly Williams,Texas,Odessa,79762
+571420fefe4ba2122eb2445d194a8dab,United States,South,Cassandra Brandow,Florida,Miramar,33023
+f0f187ea3093aaca8930f0f46acd9b61,United States,Central,Kelly Williams,Texas,Mcallen,78501
+1822ab82cb2c79ca48ef65d8eca623ce,United States,Central,Kelly Williams,Texas,The Colony,75056
+bed6de22ecb3ce1079b8ae14478ca552,United States,East,Chuck Magee,Maryland,Gaithersburg,20877
+aa0f07c206175db31ec4deee9f7d9cba,United States,West,Anna Andreadi,California,Moreno Valley,92553
+a18831373b0d0c42d0961c41a426f011,United States,East,Chuck Magee,Pennsylvania,Bethlehem,18018
+5a9010e77cf794ec21043f956c0279d9,United States,Central,Kelly Williams,Nebraska,Norfolk,68701
+a3f24f9e547491050d6d721dbe98953c,United States,South,Cassandra Brandow,Arkansas,Conway,72032
+38505c154832101977ec863a8ad360cf,United States,South,Cassandra Brandow,Tennessee,Bartlett,38134
+ad1de00129bf3517d09dc35fdae49269,United States,Central,Kelly Williams,Illinois,Glenview,60025
+04ba2a3859cc0d198a8ddc7f29eacb5b,United States,South,Cassandra Brandow,North Carolina,Wilson,27893
+37b3fa7cb0f00e678f6321cd0afca8e5,United States,Central,Kelly Williams,Texas,Bryan,77803
+206371deb08717aa699d3b08eb57d776,United States,Central,Kelly Williams,Texas,Houston,77041
+38cd6128c06c5be95921585cd2c0fd02,United States,Central,Kelly Williams,Minnesota,Eagan,55122
+b8b74e85c032b064a1cee39bf4d70338,United States,Central,Kelly Williams,Illinois,Chicago,60610
+58422b7d54cbc90bb070d8077e10505d,United States,South,Cassandra Brandow,Tennessee,Memphis,38109
+a185326ae963f99335f14f2fe8fe24ed,United States,West,Anna Andreadi,California,Roseville,95661
+778869642ae2e9e4db7a054711b300d2,United States,West,Anna Andreadi,Colorado,Arvada,80004
+4344554bed4955273acd8f94087bbb32,United States,South,Cassandra Brandow,Florida,Pembroke Pines,33024
+5534bba22bbfcde6621dfeb9ae2ad9bd,United States,West,Anna Andreadi,Washington,Des Moines,98198
+4e763f2d5b6a99cfe6e79ec6ace02214,United States,South,Cassandra Brandow,Arkansas,Fayetteville,72701
+30076722f8d333e978304f3d5b791ce6,United States,West,Anna Andreadi,Washington,Marysville,98270
+9377d91435bc852f36425ea0a754e749,United States,Central,Kelly Williams,Texas,Dallas,75217
+b09fbea54ad9c230d191593b59fb0ce7,United States,East,Chuck Magee,New Jersey,Plainfield,7060
+5d5644937fb4026c67b77ef502fcd103,United States,Central,Kelly Williams,Michigan,Detroit,48205
+ea56b2e2565b7f44281685f887da981b,United States,Central,Kelly Williams,Iowa,Des Moines,50315
+9c08724c6808282273a93976d256a12b,United States,South,Cassandra Brandow,Virginia,Alexandria,22304
+7d2c86e3f7f87754f419f81df54aafb1,United States,Central,Kelly Williams,Texas,Round Rock,78664
+96135efe38afd51b1ca82d22c6546656,United States,South,Cassandra Brandow,North Carolina,Greenville,27834
+16c38e15d9086541a2e73b75dafbb04d,United States,South,Cassandra Brandow,Georgia,Smyrna,30080
+0ecd1b8caad4cd1ede8a473de971436c,United States,West,Anna Andreadi,Montana,Missoula,59801
+9499ccb52bb2c35cbd986e322e114937,United States,West,Anna Andreadi,California,Manteca,95336
+331ea94ef18963df02a871b95e49b1e7,United States,Central,Kelly Williams,Wisconsin,Waukesha,53186
+5022382da04e840bf21c0dca51d88246,United States,South,Cassandra Brandow,South Carolina,Rock Hill,29730
+887b7c097b7f7b27b004154994e7c231,United States,South,Cassandra Brandow,Georgia,Athens,30605
+769a91eb3ef0657c4844c3fd227042e6,United States,West,Anna Andreadi,Washington,Pasco,99301
+79b5bd76d110c2b512d4260265919e20,United States,South,Cassandra Brandow,Kentucky,Georgetown,40324
+76708de9a6af14baf27ab05be2f75013,United States,West,Anna Andreadi,New Mexico,Clovis,88101
+d1da10543f48b6026497e1f77fdb0335,United States,East,Chuck Magee,New Hampshire,Nashua,3060
+0e4a8fc22d5209937d24483b6b87c3ad,United States,Central,Kelly Williams,Texas,Abilene,79605
+79729dbb665fe8513e2d6571660ca8c0,United States,Central,Kelly Williams,South Dakota,Rapid City,57701
+3bb496a5ad20a60bf538e5e50466dac7,United States,South,Cassandra Brandow,Florida,Kissimmee,34741
+383a2af4bea3a7ea421ae321b3ac9a68,United States,East,Chuck Magee,Ohio,Elyria,44035
+3081e155f8760067c79f80a3da3e2876,United States,Central,Kelly Williams,Illinois,Arlington Heights,60004
+84f45bb01302549988faf9e1680ec3b9,United States,South,Cassandra Brandow,Arkansas,Springdale,72762
+745be57dddd073821ed953274a5d891f,United States,Central,Kelly Williams,Texas,Fort Worth,76106
+568d3362c89caa8db7b8dec55e2e3195,United States,East,Chuck Magee,Pennsylvania,Philadelphia,19140
+4950e619059a849078ba61c0575ed0ad,United States,South,Cassandra Brandow,North Carolina,Charlotte,28205
+8f64a88f9fbd85d29a06960a4a074163,United States,East,Chuck Magee,New Jersey,Westfield,7090
+734cf4a8805f675677716e6b50856dd4,United States,East,Chuck Magee,Pennsylvania,Philadelphia,19120
+2dcfd71b087158cfda22dfffdbe86980,United States,South,Cassandra Brandow,North Carolina,Chapel Hill,27514
+5fd0feab1709ead7df75830ee287d169,United States,South,Cassandra Brandow,Virginia,Arlington,22204
+978aa83c18c0da58a9412c2d6e5b4380,United States,South,Cassandra Brandow,Georgia,Columbus,31907
+40a2544ef8c0e06902ca71a49aa2764b,United States,East,Chuck Magee,New York,Lindenhurst,11757
+82e96127bc0d35f410289863013864c5,United States,South,Cassandra Brandow,Georgia,Warner Robins,31088
+f586bed12ffd48dd229d44086fe06cae,United States,Central,Kelly Williams,Texas,Arlington,76017
+67b1d57ee8ecace79e018c80d5584ad3,United States,Central,Kelly Williams,Texas,Tyler,75701
+ca825a1b100b3aeaf60aa7b51ab8439f,United States,East,Chuck Magee,Pennsylvania,Chester,19013
+592e190ff1dba623e77edfe044ece6b3,United States,Central,Kelly Williams,Minnesota,Cottage Grove,55016
+93bfcd1c41e25235338bae33174cf3bf,United States,West,Anna Andreadi,Washington,Edmonds,98026
+aef77e6f5ef4aff419aeca3d19aa549a,United States,Central,Kelly Williams,Wisconsin,Milwaukee,53209
+f7568fbcee5e1c917def035dfcefaea3,United States,East,Chuck Magee,Maryland,Columbia,21044
+ac1225305ffd9c72455acfa6814fc7b8,United States,East,Chuck Magee,District of Columbia,Washington,20016
+0169745ac32e23e6abcd3ff99781f293,United States,West,Anna Andreadi,California,Oakland,94601
+2a33c15cc6102da292e239f5ecf9f44d,United States,South,Cassandra Brandow,North Carolina,Monroe,28110
+9a644bb9bb61ae0981c853ec4b2fcea0,United States,East,Chuck Magee,Rhode Island,Providence,2908
+79839626b571e1595e719d39635faee0,United States,West,Anna Andreadi,California,Pomona,91767
+57812dd055bf3d898535a3b25aabd72f,United States,West,Anna Andreadi,California,Laguna Niguel,92677
+ad25742f867c7e93ef3cba5232794e41,United States,Central,Kelly Williams,Wisconsin,Appleton,54915
+b9a423579945d5c5b7fd6d82dc8855fe,United States,Central,Kelly Williams,Oklahoma,Tulsa,74133
+20b8c053083e33e69b4c3ea75417dbba,United States,South,Cassandra Brandow,Alabama,Auburn,36830
+331948e8a098cdad13fbb09920ec4f7f,United States,West,Anna Andreadi,California,San Bernardino,92404
+887adda9d9b7db8584d961768853f28a,United States,East,Chuck Magee,Massachusetts,Leominster,1453
+f94949317cf8ccac8a6612fbbc7e3630,United States,West,Anna Andreadi,Colorado,Littleton,80122
+5e4502326faabd1f9a72f4064367b2cf,United States,South,Cassandra Brandow,Tennessee,Clarksville,37042
+b7df419e4795d4c5715637a375234a93,United States,West,Anna Andreadi,California,Bakersfield,93309
+b0917c27119724edcd1924bb1676c5a2,United States,Central,Kelly Williams,Michigan,Sterling Heights,48310
+ded5854adee8d39ede986a30ea77b396,United States,Central,Kelly Williams,Wisconsin,Eau Claire,54703
+f20ff1b576c910ea5ae00dc7ff5bd826,United States,Central,Kelly Williams,Illinois,Carol Stream,60188
+07acabf13ebd9d1e64df901f1327ec9e,United States,Central,Kelly Williams,Kansas,Manhattan,66502
+9f5f1d45427f7a47709a8a36ad60ffbc,United States,Central,Kelly Williams,Texas,Port Arthur,77642
+0e3ac938c86e38172a5dc4b063b98750,United States,West,Anna Andreadi,California,Danville,94526
+88568ebd4f8a1d2779de153e1826c75e,United States,West,Anna Andreadi,Montana,Helena,59601
+b7f4fca706255fdcb667326832bded92,United States,Central,Kelly Williams,Iowa,Waterloo,50701
+d9ca712e774b1f07edb4fb4fcedcebb1,United States,West,Anna Andreadi,New Mexico,Rio Rancho,87124
+1a62ae763982781f8976057daac35442,United States,Central,Kelly Williams,Texas,Beaumont,77705
+c5126a873ad1886e8b913f563e4019fb,United States,West,Anna Andreadi,Colorado,Longmont,80501
+2c55e807caae065f1f47860cf074c8fb,United States,West,Anna Andreadi,California,Morgan Hill,95037
+95ac1425fd1239542dc556de37ebf7bd,United States,Central,Kelly Williams,Wisconsin,Sheboygan,53081
+153aada1561c6aaaa361c7f476066448,United States,West,Anna Andreadi,California,Lodi,95240
+65dbbb78d94acf75dce160a19d45a429,United States,Central,Kelly Williams,Texas,La Porte,77571
+edac46e886ff410a257e368520638096,United States,South,Cassandra Brandow,North Carolina,Durham,27707
+f3b9cda181c8141e3210c2aa0b0e3d93,United States,West,Anna Andreadi,Colorado,Denver,80219
+eb12879d04cfcf3e19b844eb44c1077b,United States,West,Anna Andreadi,California,San Diego,92037
+b9a5da6530eeb4af0973bd7cfd4fac32,United States,Central,Kelly Williams,Texas,Austin,78745
+88ecd55aa58a66b0650574f6902c39a9,United States,South,Cassandra Brandow,Florida,Jacksonville,32216
+cb8b3be5e76612d519bdd968973cfa7d,United States,West,Anna Andreadi,Oregon,Salem,97301
+63d290cd4173b41211ffb8ac4d6d18ee,United States,East,Chuck Magee,Ohio,Cleveland,44105
+e1fefbfb0b706fe8d0a12f7c2d91f3fe,United States,South,Cassandra Brandow,Florida,Hialeah,33012
+fe2ca268425f74d18079fc7408b1abd7,United States,East,Chuck Magee,New Hampshire,Concord,3301
+714e8cc1ccb2c600b615fd5352d57385,United States,South,Cassandra Brandow,Mississippi,Gulfport,39503
+e51f436317252c70adf188a9a7503c89,United States,East,Chuck Magee,Massachusetts,New Bedford,2740
+3a8c4375a2360751a72633820c4bc303,United States,West,Anna Andreadi,California,Westminster,92683
+4f1daf47104236a3606507b5c8ea83f7,United States,East,Chuck Magee,Delaware,Newark,19711
+6942ab1731c880aed482a0af08315133,United States,West,Anna Andreadi,Washington,Bellevue,98006
+3a30c9944ef0474c51913fec333cbcd9,United States,Central,Kelly Williams,Texas,Grapevine,76051
+e40f31638be177ca8cea716185590d04,United States,Central,Kelly Williams,Illinois,Skokie,60076
+d4c3321548fbc63e461501ff5b60e7b6,United States,East,Chuck Magee,Maryland,Baltimore,21215
+25fbcf6c9af3423e2fd217155425ab2a,United States,South,Cassandra Brandow,Florida,Miami,33178
+b690aff5c8f35331c5648ff1b32ceea6,United States,Central,Kelly Williams,Texas,Lubbock,79424
+5d3f92958125ffbf9b4d191923ad70fa,United States,East,Chuck Magee,Massachusetts,Quincy,2169
+3f3d39ab42ec1d869a745c8293517a42,United States,South,Cassandra Brandow,Arkansas,Little Rock,72209
+e2d8bbad591317fd213c7418ba41a383,United States,East,Chuck Magee,Ohio,Bowling Green,43402
+6c4c9f48282f20e5364b91190ce7bc98,United States,South,Cassandra Brandow,Arkansas,Hot Springs,71901
+37e560c3f601297c3483fddd7b72f593,United States,West,Anna Andreadi,New Mexico,Las Cruces,88001
+8363edad65d990112496bbab81fcb2dc,United States,West,Anna Andreadi,Montana,Billings,59102
+6dce0fcfbacbbb4df474a29f5e45bb4f,United States,West,Anna Andreadi,California,Yucaipa,92399
+b50e44810bb5cdcd32aeb1c713dd9039,United States,Central,Kelly Williams,Minnesota,Saint Cloud,56301
+e9195da464e89ad5e286d0ab1b3c26da,United States,South,Cassandra Brandow,Florida,North Miami,33161
+3da6540cdbd98861b562fac64bb245d6,United States,Central,Kelly Williams,Indiana,Bloomington,47401
+68ed43640588f0f9acfbaa9385d0232e,United States,Central,Kelly Williams,Texas,Deer Park,77536
+df1304113ba6c8730b52263788384f97,United States,Central,Kelly Williams,Kansas,Wichita,67212
+d895678ba3d5b57a1b1c8a117bfc2511,United States,West,Anna Andreadi,California,Citrus Heights,95610
+062731a95210cec95f41c139b9bb0412,United States,South,Cassandra Brandow,Georgia,Sandy Springs,30328
+c87e30ba2d4a28c426d38a581201a27e,United States,West,Anna Andreadi,California,Burbank,91505
+496e87712866f34af44102cf8b337185,United States,South,Cassandra Brandow,Arkansas,Pine Bluff,71603
+764773afd6b341e80d30be526dfaf407,United States,Central,Kelly Williams,Minnesota,Coon Rapids,55433
+b5f37aab50009ca0b3dd684e06182261,United States,Central,Kelly Williams,Michigan,Jackson,49201
+fdf66ddd252e746834a0e948b5aa35ef,United States,East,Chuck Magee,Delaware,Wilmington,19805
+58188b23476e1d681554bcb6ca4d18fe,United States,West,Anna Andreadi,Arizona,Phoenix,85023
+90d8487616ca1aab78b493eb5546ffd8,United States,West,Anna Andreadi,California,Pasadena,91104
+3e58d4b7c7315e5578f5a0901d1c6d60,United States,East,Chuck Magee,Pennsylvania,Philadelphia,19134
+2f6b18d0bcc1f8cc389ff9e1781a0e61,United States,East,Chuck Magee,Connecticut,Fairfield,6824
+237adae1ba80730cab7eab4fb4930f0a,United States,Central,Kelly Williams,Illinois,Peoria,61604
+1acfc370438ee50ba88d0e85db3c6279,United States,South,Cassandra Brandow,North Carolina,Gastonia,28052
+90f3ab86b72f75a09c3c213d74ca7712,United States,West,Anna Andreadi,California,Mission Viejo,92691
+9f9c5293ee222db244fceb67f610c368,United States,South,Cassandra Brandow,Virginia,Waynesboro,22980
+8910fab9501ebd126568000b0230fb0f,United States,West,Anna Andreadi,California,San Diego,92105
+4b5ef1be28696b13ffb25cd6ed760e25,United States,East,Chuck Magee,New Jersey,New Brunswick,8901
+40569cb8228d5e62f96160c7682c5c85,United States,South,Cassandra Brandow,Virginia,Virginia Beach,23464
+5f9582fb414e6e401ed902a3d7ee5aca,United States,East,Chuck Magee,Ohio,Cuyahoga Falls,44221
+2fb1ca20fc55a8d97e8dd227c2cfc01f,United States,East,Chuck Magee,New York,Long Beach,11561
+bc9a68d41d1d2a287bc18c5c1475b67f,United States,West,Anna Andreadi,California,Pico Rivera,90660
+86e332f9b74888964cdf88c036aecd9f,United States,Central,Kelly Williams,Texas,Irving,75061
+26a364ee20f1cb91b92a937fa757ad60,United States,Central,Kelly Williams,Texas,El Paso,79907
+2301e7c21b4e1f7362fab28d5f2f7810,United States,Central,Kelly Williams,Oklahoma,Oklahoma City,73120
+53406922cbd6c2642f91dccac43439a1,United States,Central,Kelly Williams,Missouri,Columbia,65203
+ee7a0d53ce7c1e17aea7973561c70d25,United States,West,Anna Andreadi,Arizona,Peoria,85345
+dd59ae5e603b3eef98219636e94a14e9,United States,Central,Kelly Williams,Minnesota,Moorhead,56560
+d3d4bdfad74d6a2201885f7bf8b69d2a,United States,Central,Kelly Williams,Texas,Mesquite,75150
+e1b163890f583f30bc806f8c12f3083c,United States,East,Chuck Magee,Ohio,Marion,43302
+fb5fa179352ccc0d2727fffd678562b7,United States,Central,Kelly Williams,Indiana,New Castle,47362
+601879e38453906ebba17f76ea7f28a1,United States,West,Anna Andreadi,New Mexico,Albuquerque,87105
+1dee86d4c5a2867a10d45c312d274339,United States,Central,Kelly Williams,Indiana,Mishawaka,46544
+819a7ca4ecfc0dbacd76c0cf69e6aefb,United States,West,Anna Andreadi,California,La Quinta,92253
+8024c7bce2213158d10cb5f7fba3f6f7,United States,South,Cassandra Brandow,Florida,Tallahassee,32303
+21b13a7aee158b128c07839fe6e9aa49,United States,East,Chuck Magee,New York,Hempstead,11550
+23f3b258828c54f54fae05f088bc68f2,United States,West,Anna Andreadi,Idaho,Boise,83704
+94ca2a7d64c88cf1d053424a86219966,United States,South,Cassandra Brandow,Florida,Margate,33063
+a88400895d1371fa7771165324811ae9,United States,East,Chuck Magee,New York,Rome,13440
+c85178e4c0316c32c9d2cec142792a63,United States,Central,Kelly Williams,Texas,Cedar Hill,75104
+9a0c5c938ac520e67adf1c8f0ddf9d15,United States,Central,Kelly Williams,Texas,Texas City,77590
+e26d320ca375073ed46fe5c392927683,United States,South,Cassandra Brandow,Florida,Coral Gables,33134
+f64a34cba4ce70c71681e78135f97ede,United States,South,Cassandra Brandow,Kentucky,Henderson,42420
+905efcf0f8adff32b3301e8e7b2dba93,United States,South,Cassandra Brandow,North Carolina,Concord,28027
+eab1698bd4d6b07eb00900632c79f8aa,United States,Central,Kelly Williams,Illinois,Naperville,60540
+c62ae559980d7d6e819bb4b52877b93c,United States,Central,Kelly Williams,Iowa,Urbandale,50322
+5dfd91fe2c103dc724498ddbc82777f4,United States,West,Anna Andreadi,Washington,Seattle,98105
+6e35fb4dbb0b664fd9776121ebbaeee4,United States,Central,Kelly Williams,Texas,Dallas,75220
+404c7476b417f90e9f61b00787de5d81,United States,West,Anna Andreadi,California,Brentwood,94513
+3eebe6c6f06af903db4375cb07fd9ce3,United States,East,Chuck Magee,New Jersey,Lakewood,8701
+94d11cc5d205dbc5925d23b26119da83,United States,East,Chuck Magee,New Jersey,Hackensack,7601
+df1d73a521c04bca484ee54a57f99439,United States,East,Chuck Magee,Pennsylvania,Philadelphia,19143
+362c8e0d766b8a8adac615be4ea9ce20,United States,West,Anna Andreadi,Utah,Layton,84041
+dc8bc2dd2c82d3314def56a433432232,United States,Central,Kelly Williams,Illinois,Quincy,62301
+8677abcf015631d9cf52edd73d247b15,United States,West,Anna Andreadi,California,Vallejo,94591
+b839e1bc91bd4ad231fb24448655e7de,United States,East,Chuck Magee,Ohio,Lorain,44052
+fe2a07a582476552a7b303b9db8d34b0,United States,East,Chuck Magee,Maryland,Clinton,20735
+7129de10eebd55b9ace41ea19126168f,United States,Central,Kelly Williams,Michigan,Royal Oak,48073
+f5de53e9213982b959ddf410ff8ad751,United States,South,Cassandra Brandow,Tennessee,Jackson,38301
+01db9968d6898618b80fc76f50ddbcf6,United States,West,Anna Andreadi,Nevada,North Las Vegas,89031
+ba99850b06b9f5f081d8fe45e0c6e750,United States,West,Anna Andreadi,Arizona,Tempe,85281
+76a8b539c54d257a73a18c1eb93b27dc,United States,East,Chuck Magee,New Jersey,Bayonne,7002
+5e874017abd8c56f70e3406d6e1f34b3,United States,South,Cassandra Brandow,Tennessee,Johnson City,37604
+84ae8c6bd63efe9de9df62c3e8b12b99,United States,South,Cassandra Brandow,Florida,Ormond Beach,32174
+9dbb86aded1c14ac5338baf212232a31,United States,West,Anna Andreadi,Utah,Salt Lake City,84106
+1223e4b034eeecb3f91fad1137e80b07,United States,East,Chuck Magee,New York,Jamestown,14701
+942dae57205694bbd72dc946567c9678,United States,South,Cassandra Brandow,Tennessee,Nashville,37211
+1e6010bf8fe0c5afe2e30138a0d0b7e5,United States,Central,Kelly Williams,Texas,Corpus Christi,78415
+b72af5e35b6926aec26ae7484db34a3b,United States,South,Cassandra Brandow,Florida,Orlando,32839
+756168c43741001635eeb484065d492c,United States,West,Anna Andreadi,Idaho,Meridian,83642
+2fb7b9f3917c50d469e127f86bb06054,United States,Central,Kelly Williams,Minnesota,Maple Grove,55369
+a72bebb95587adc99dd14ebb6a82812c,United States,West,Anna Andreadi,California,Temecula,92592
+e79ada62baf6ac29b368c1eb33814876,United States,Central,Kelly Williams,Texas,Conroe,77301
+a32acef434d256329d214653a41705b6,United States,Central,Kelly Williams,Michigan,Dearborn Heights,48127
+165934ba7a4248ca7f2cb314d7e7fe71,United States,West,Anna Andreadi,California,Lakewood,90712
+8445635731085f7c9db797ddffd03600,United States,Central,Kelly Williams,Indiana,Elkhart,46514
+af8d8c91f538bc6a2edeec2655c46572,United States,West,Anna Andreadi,Utah,Logan,84321
+bdb927f3d309efa924d2281b2ed5ec59,United States,East,Chuck Magee,Connecticut,Waterbury,6708
+9f2cb088580f8f3984c4ae7ac0be5d4b,United States,Central,Kelly Williams,Missouri,Kirkwood,63122
+8f4b45d2168058d2441f44c66461b00d,United States,West,Anna Andreadi,Utah,Draper,84020
+31f6016875971e01f3145d9e3c1c1d80,United States,West,Anna Andreadi,Oregon,Eugene,97405
+b7a267bcf57805a56c701cbbf0f4b200,United States,Central,Kelly Williams,Missouri,Saint Charles,63301
+821aac558ec117bf98b41680055e0079,United States,Central,Kelly Williams,Iowa,Marion,52302
+c54ae2fe1dfc794ec944b57b387e9390,United States,East,Chuck Magee,Massachusetts,Marlborough,1752
+822599d17aa0a3baa611727b9a81eed3,United States,Central,Kelly Williams,South Dakota,Aberdeen,57401
+dcedd8166328a4a1c9f8a27b1b74d187,United States,West,Anna Andreadi,Washington,Seattle,98103
+45861a3974f6a13d6fe444595c864c74,United States,Central,Kelly Williams,Wisconsin,Madison,53711
+f2dcc231f0edeb688ba8ae8637284af4,United States,East,Chuck Magee,New York,New York City,10009
+782973d37a4869cfa5c259bc579635bb,United States,West,Anna Andreadi,Oregon,Portland,97206
+26021d7412aca17f97fe550787d7dfac,United States,Central,Kelly Williams,Minnesota,Saint Paul,55106
+93b2911f0e2c235196bff68b689b988c,United States,Central,Kelly Williams,Texas,Grand Prairie,75051
+4146b5572bf916165490415e6f820b9b,United States,East,Chuck Magee,Ohio,Dublin,43017
+0642513dd83ec687ece9fe2ce6d11f63,United States,West,Anna Andreadi,California,Santa Clara,95051
+8924308610a71718deb6bdb0de6333df,United States,East,Chuck Magee,New Jersey,Morristown,7960
+6194a2e43d000074bd2293ea50aa1285,United States,East,Chuck Magee,New Jersey,Belleville,7109
+bdf097bb82025fe644b841bee993a230,United States,West,Anna Andreadi,Arizona,Tucson,85705
+7c2684738473c0613c7031dad0c54d15,United States,South,Cassandra Brandow,North Carolina,Wilmington,28403
+96fef39a349b4b6237744427076db961,United States,West,Anna Andreadi,Colorado,Parker,80134
+d901599c36db5dd3d2dc96270524f87a,United States,South,Cassandra Brandow,Florida,Lakeland,33801
+6dbe527d60442e7b59af04107b08e5eb,United States,Central,Kelly Williams,Texas,Laredo,78041
+ff836c3832109e05cda91471716c5e02,United States,Central,Kelly Williams,Texas,Brownsville,78521
+977915e2ee096d0a8f08ada0b6bec0e4,United States,East,Chuck Magee,New Jersey,Vineland,8360
+9383ea9a9d0c3e0c3f4255e063c8c1f5,United States,East,Chuck Magee,New York,Watertown,13601
+6282665caba7327dcafada1a2fce4233,United States,West,Anna Andreadi,Washington,Kent,98031
+e893b0e0449299dabee0640e04a61490,United States,South,Cassandra Brandow,Virginia,Suffolk,23434
+9f9f2dbf626beed685b76e5e88fded85,United States,South,Cassandra Brandow,North Carolina,Raleigh,27604
+e4e63520a28a9ea4238c6aeeb3e42dd5,United States,West,Anna Andreadi,Oregon,Springfield,97477
+95982f76d4a1b7c409db77a8a0a03c79,United States,East,Chuck Magee,New Jersey,Paterson,7501
+38e1b4a59e24cc19e0d28c90cd6ed27a,United States,East,Chuck Magee,New Jersey,Perth Amboy,8861
+54194072823b7ab9d73f0c0452b4db88,United States,Central,Kelly Williams,Missouri,Saint Louis,63116
+c3c972d1e3eaea66f8f977e44e886e8e,United States,South,Cassandra Brandow,South Carolina,Summerville,29483
+bec564a73850fb268780ffa2857258a4,United States,West,Anna Andreadi,Colorado,Englewood,80112
+06bbf06d22fbfcb1be323c5e432f2d31,United States,West,Anna Andreadi,California,San Mateo,94403
+4dbc6fa48d6c027a617b0406b34d0c8b,United States,West,Anna Andreadi,California,Visalia,93277
+ef0fb215149257ba0daff354a21a0ac7,United States,Central,Kelly Williams,Illinois,Champaign,61821
+e90c7e4a0ae30ff48a6b3f3ae4b249cd,United States,Central,Kelly Williams,Indiana,Greenwood,46142
+cd1a9866da13b3eef530bbef280e4357,United States,West,Anna Andreadi,Washington,Redmond,98052
+8ed9cfeb39a4909ecdc079fbee76f313,United States,East,Chuck Magee,Ohio,Mentor,44060
+25cef9e1a5046286071ec9524c8924fc,United States,Central,Kelly Williams,Texas,League City,77573
+89f6a8247f260bfa3d00dd2d2845383e,United States,South,Cassandra Brandow,Tennessee,Hendersonville,37075
+f2100bea2cd188f0aacb3febecbd6694,United States,Central,Kelly Williams,Illinois,Palatine,60067
+ebf8e488a63ad17c8173a5d2897c6079,United States,West,Anna Andreadi,California,Montebello,90640
+0b57abc4d5ddbab78cfaf1a7072526b6,United States,West,Anna Andreadi,California,Camarillo,93010
+1d7147a3c2e760de67eba93c7372e50f,United States,Central,Kelly Williams,Kansas,Garden City,67846
+6f75293f1b4160d8a1a7039d8a08391a,United States,South,Cassandra Brandow,Florida,Fort Lauderdale,33311
+021ee612ada6a13e16cd03f6a4f96bfd,United States,Central,Kelly Williams,Texas,Houston,77095
+c4e048575909620dd099e5d82d6ab3f5,United States,Central,Kelly Williams,Texas,Richardson,75080
+d2b6b9f71f4e2d724a5214e197a99ad1,United States,Central,Kelly Williams,Texas,Houston,77036
+aa4e87641c4ee52e208c06b2144c69d8,United States,West,Anna Andreadi,California,Redlands,92374
+2dd12c2d31a7299b3cfaed3b6ac430ec,United States,Central,Kelly Williams,Texas,Pasadena,77506
+23a3a98ce5bd5a51b0a770bb35811b23,United States,East,Chuck Magee,Rhode Island,Warwick,2886
+ace4fc732b1b756e8a97d38c948cfe55,United States,South,Cassandra Brandow,Mississippi,Jackson,39212
+a822710466cc199c4878f4c462319ebd,United States,Central,Kelly Williams,Indiana,Columbus,47201
+29dbab84b0c10087cf622cab2daf2937,United States,Central,Kelly Williams,Wisconsin,Green Bay,54302
+aeb3253264563c0123797a1b52a8c79c,United States,Central,Kelly Williams,Illinois,Aurora,60505
+c09414de71d2e257bb2d94f74ae0729b,United States,Central,Kelly Williams,Michigan,Trenton,48183
+1ed8288c1516d5b3a32ec1a80200fd99,United States,Central,Kelly Williams,Texas,Garland,75043
+536c37fc8d760900c12c55260328d69a,United States,West,Anna Andreadi,Nevada,Reno,89502
+6629a4cb443a7f4b9562b0d0e1a22678,United States,South,Cassandra Brandow,Virginia,Harrisonburg,22801
+96b76c80b8670794f587962b84e0efb2,United States,South,Cassandra Brandow,Kentucky,Murray,42071
+35bd79fc4ca64653e0bd833a502858e6,United States,West,Anna Andreadi,Utah,Provo,84604
+e5bd9911720e48d9d5c86807d03916b4,United States,East,Chuck Magee,New York,Niagara Falls,14304
+0c331ec90bc1478194dbeb1fd1a9795e,United States,West,Anna Andreadi,Oregon,Medford,97504
+a1597912b84f16847495ada625a5b4bc,United States,East,Chuck Magee,Pennsylvania,Reading,19601
+5af7f54a2fc0a3b002abd88d79ca176c,United States,West,Anna Andreadi,California,Sunnyvale,94086
+6ce2771a805a13cb71929683bd282341,United States,East,Chuck Magee,Ohio,Kent,44240
+73f8937ea11dcd557dcf0b0cbcc15895,United States,West,Anna Andreadi,California,Sacramento,95823
+5109e2b798543821c0ec87351f86b9b5,United States,West,Anna Andreadi,California,Coachella,92236
+6814042082a1ec835cdd86bfdad0d710,United States,Central,Kelly Williams,Texas,Haltom City,76117
+8fb95f829684455fa1fcbe82baea81d9,United States,West,Anna Andreadi,Utah,Murray,84107
+21f1954e246ceb5a7a8f286a24ecf7ff,United States,South,Cassandra Brandow,Tennessee,Chattanooga,37421
+6d6ce75c9ecb40817f455b13ac109755,United States,Central,Kelly Williams,Illinois,Bolingbrook,60440
+b3fccd4d45485400b49253c88dfe4030,United States,East,Chuck Magee,Rhode Island,Cranston,2920
+d75ce81d35cae78d6ff7ba061924d4c1,United States,Central,Kelly Williams,Minnesota,Roseville,55113
+c3a3e417f86c400ad8c7e60714830993,United States,East,Chuck Magee,Massachusetts,Cambridge,2138
+bb1337d748385175b91e658a1e8bdd22,United States,West,Anna Andreadi,Colorado,Commerce City,80022
+57d12faa88f6910a3f183d7981b9c297,United States,East,Chuck Magee,Massachusetts,Andover,1810
+3dc16f00142b8b4d956631212947615c,United States,South,Cassandra Brandow,Tennessee,Bristol,37620
+b841735513e3779db221480422510269,United States,Central,Kelly Williams,Illinois,Bloomington,61701
+4f37679dd13d4916d1c300a90c801719,United States,West,Anna Andreadi,California,Los Angeles,90045
+2fbdfc99e5d9cff1bc59d0ec2b35a137,United States,South,Cassandra Brandow,Louisiana,Monroe,71203
+4c159244302ca100c952fde6da76cb49,United States,West,Anna Andreadi,California,Whittier,90604
+b9396971486ce33a46279356f793cd87,United States,South,Cassandra Brandow,Florida,Miami,33180
+4c10ca8851e8fea53a8c20daf6e5dfcc,United States,West,Anna Andreadi,California,Concord,94521
+10c5cf1d9109250aa581804ebe6dcae9,United States,South,Cassandra Brandow,Kentucky,Louisville,40214
+14831427850ffed6b4b3c8c64fe92ed3,United States,South,Cassandra Brandow,Louisiana,Bossier City,71111
+26744bf56379284ccac050ddc869414c,United States,East,Chuck Magee,New Jersey,Linden,7036
+2565ba473f04eb6d1ebea1719257bda4,United States,East,Chuck Magee,Connecticut,Norwich,6360
+c5f5df0ccc70ecca15e1771a2ff1faf5,United States,West,Anna Andreadi,California,Torrance,90503
+1c817db8ea5bd808a92bea67b685386e,United States,West,Anna Andreadi,California,Encinitas,92024
+7d0f03087ef1ae424fc98195e6c41ae4,United States,East,Chuck Magee,Maryland,Rockville,20852
+f33441f11bfaf4aebf336046f6d8adde,United States,West,Anna Andreadi,California,Fairfield,94533
+f52e4d44d5b5e7a30cd0ee1fdb45f305,United States,East,Chuck Magee,Connecticut,Middletown,6457
+19fb3bb7ff432bfe1529436b657a25a3,United States,West,Anna Andreadi,Oregon,Redmond,97756
+866e0cf4c93b1c48d0a08e5414dae0eb,United States,East,Chuck Magee,Connecticut,Meriden,6450
+13d7cea53bb24f70c47421de2f9f9c51,United States,West,Anna Andreadi,Nevada,Henderson,89015
+43c15f9c4c5c230595e3451af34af794,United States,Central,Kelly Williams,Texas,Missouri City,77489
+ae9724a6d5fdcbf9033c53dffe95f230,United States,Central,Kelly Williams,Michigan,Grand Rapids,49505
+fee05f6dac32be761f18c4021c61cc6f,United States,South,Cassandra Brandow,Florida,Port Saint Lucie,34952
+a0c0648c992715bbb069442a82677a4a,United States,Central,Kelly Williams,Wisconsin,Superior,54880
+d5a69f4c575b8f332c8940f360b30879,United States,South,Cassandra Brandow,Florida,Daytona Beach,32114
+24b344b46f0d154c58ddaf97611a1404,United States,West,Anna Andreadi,Idaho,Lewiston,83501
+a797e85456c02653f9daadc25b011a01,United States,Central,Kelly Williams,Illinois,Danville,61832
+57f84b1665d24d7bc2c1316e4026d88f,United States,South,Cassandra Brandow,Georgia,Marietta,30062
+875965a61109c3f6be5ca99c3eda3f11,United States,West,Anna Andreadi,Idaho,Pocatello,83201
+f0eeec20e3e25f3f53491d5b327ccc72,United States,East,Chuck Magee,Connecticut,Milford,6460
+d0a69e6b4449babd76cb9a8af09d2f8d,United States,South,Cassandra Brandow,Kentucky,Owensboro,42301
+64bba93cc5f7c08cf6e92bff95de5d89,United States,East,Chuck Magee,Massachusetts,Beverly,1915
+62e3fae0fe4b77371199f3edc3e984f3,United States,South,Cassandra Brandow,Florida,West Palm Beach,33407
+357d239fd00b6f7ec15b793029691976,United States,Central,Kelly Williams,Illinois,Normal,61761
+b6ec37c089f0f718e16912414f8a1d5f,United States,Central,Kelly Williams,Illinois,Saint Charles,60174
+e9d35b721da4edaeb3c205cf8200bafd,United States,Central,Kelly Williams,Texas,San Marcos,78666
+c371a44882313c788631ac40ff4de1dd,United States,East,Chuck Magee,Maryland,Laurel,20707
+41065087e03c0362a41cf2870bfd275c,United States,South,Cassandra Brandow,Georgia,Woodstock,30188
+8026d0edfee6d1f79f48c43125b19406,United States,Central,Kelly Williams,Nebraska,Fremont,68025
+20a78597a78df5588fb06e3ca5041621,United States,East,Chuck Magee,Delaware,Dover,19901
+3de3b7433954296bfaa146f9a8a4bb01,United States,East,Chuck Magee,New York,Troy,12180
+28c0738e4baee0d97191b8f171b46519,United States,West,Anna Andreadi,Arizona,Gilbert,85234
+514303238209ea2473a820e551b379cf,United States,West,Anna Andreadi,Arizona,Scottsdale,85254
+f8b36ba27d2fc33c07526e628dc463d1,United States,East,Chuck Magee,Massachusetts,Lowell,1852
+c2aa9a40ce9bc0609617ba736d67645e,United States,East,Chuck Magee,Connecticut,Manchester,6040
+54c5e46320a392ada6605a9db015859f,United States,West,Anna Andreadi,Nevada,Las Vegas,89115
+e2ca52e5f15939e39aff85bec387c8a1,United States,East,Chuck Magee,Ohio,Springfield,45503
+5e5dd48a736372531dc68114b54af969,United States,West,Anna Andreadi,California,Anaheim,92804
+1fe0d0f6bb75417ac88c2781cdedccb6,United States,Central,Kelly Williams,Michigan,Dearborn,48126
+ad9fe19f100ee40c3e1fe326d6b026ef,United States,West,Anna Andreadi,Arizona,Sierra Vista,85635
+73625bf9c23db752f08bf61b9f668efd,United States,West,Anna Andreadi,California,Lancaster,93534
+c526ca201e2a3fe88e94d461a2074316,United States,South,Cassandra Brandow,North Carolina,Asheville,28806
+480e7b6a9a6953eb4d9198f3c485d4a4,United States,South,Cassandra Brandow,Kentucky,Florence,41042
+829415e0075bfdda9e21c757321173cc,United States,West,Anna Andreadi,Washington,Olympia,98502
+0c7dd4e02b4963b4a2976bee17c09d64,United States,West,Anna Andreadi,Colorado,Pueblo,81001
+6a36900adde566e60acdff47fab0dd63,United States,East,Chuck Magee,Ohio,Parma,44134
+719268ca9052f58d5b274cad6ed45c71,United States,South,Cassandra Brandow,North Carolina,Thomasville,27360
+84bf680b5a3d1c2fdcff0099f3b16e93,United States,South,Cassandra Brandow,Louisiana,Lafayette,70506
+015d5dbe58fe4409c193a1ae988ac2f9,United States,Central,Kelly Williams,Wisconsin,Kenosha,53142
+7c79d14f33865a3861af36001980c748,United States,Central,Kelly Williams,Indiana,South Bend,46614
+d06bfcf0c5b97b6960c5d79dbfe767af,United States,Central,Kelly Williams,Missouri,Springfield,65807
+ff4a31c883adbc88758f682790c06fc8,United States,East,Chuck Magee,Ohio,Lakewood,44107
+50c1e906bc3a877cd1e64cf47eac9f9b,United States,West,Anna Andreadi,California,Rancho Cucamonga,91730
+da1d684cf4d17ffb62ab399287f80219,United States,South,Cassandra Brandow,Tennessee,Knoxville,37918
+34ae2cb424c9ea0f1d2c0a9b0010be4a,United States,Central,Kelly Williams,Michigan,Lincoln Park,48146
+13095023c02d5fcaf9711183313e1eff,United States,East,Chuck Magee,Maine,Bangor,4401
+8a0b4d3e18a6c459b2f85555368f3c96,United States,Central,Kelly Williams,South Dakota,Sioux Falls,57103
+e0e8002ed6686880e8f3fe24d0832e19,United States,West,Anna Andreadi,Colorado,Fort Collins,80525
+85d7f45173fd83c2f695fd59d4f54743,United States,Central,Kelly Williams,Indiana,Lafayette,47905
+4cd54523959b49f1a5b387345dcb9cac,United States,East,Chuck Magee,Massachusetts,Holyoke,1040
+9d4ca4ff9566776864347b2fd45b5b18,United States,West,Anna Andreadi,Washington,Bellingham,98226
+07344fe9b411a7322f8792065d301b17,United States,East,Chuck Magee,Ohio,Lancaster,43130
+bafbf5294b9311a72c5afccf39421ea0,United States,South,Cassandra Brandow,Louisiana,Lake Charles,70601
+78bc2890ed07d634a35a0bb139f3eaf2,United States,South,Cassandra Brandow,North Carolina,Hickory,28601
+d3a13861f0f76ebed229dd4510d58443,United States,Central,Kelly Williams,Wisconsin,West Allis,53214
+2a867917074c1efabfb98c2395c1a8cc,United States,Central,Kelly Williams,Illinois,Freeport,61032
+15bbe7beab59d6c61c4dabd7d82635c9,United States,West,Anna Andreadi,Utah,Lehi,84043
+bc75b2f24b12619c34cf9e1207b478ce,United States,Central,Kelly Williams,Texas,Waco,76706
+2381b3ad896509ed592f34e1c76e7b00,United States,Central,Kelly Williams,Illinois,Frankfort,60423
+41ea0e258e589a463c1208299289746a,United States,Central,Kelly Williams,Michigan,Ann Arbor,48104
+b8d72afbe73a60e94152f0d2d80e9609,United States,West,Anna Andreadi,California,Redding,96003
+e668e58121a6ccb4b4cd5cd069d6ad90,United States,South,Cassandra Brandow,Tennessee,Lebanon,37087
+d4df5ac9ecce5c24af7e9f6be88f1710,United States,East,Chuck Magee,Connecticut,Danbury,6810
+0435fabd0e609444a42fcce1403513e0,United States,East,Chuck Magee,New Jersey,East Orange,7017
+9cf52e711ace9c3078cf92131657c778,United States,East,Chuck Magee,New York,New York City,10024
+cd9f963363cc56d50452ada7a8414f12,United States,Central,Kelly Williams,Texas,Houston,77070
+d6a5b854d6bd0963181f7a61aa14277b,United States,Central,Kelly Williams,Illinois,Chicago,60623
+6042dcd084be4ae42de27c14f63e3f8c,United States,East,Chuck Magee,Ohio,Newark,43055
+9de1207de72af1195a00b162f466b07b,United States,West,Anna Andreadi,New Mexico,Carlsbad,88220
+13768d1dd3bb6bb5b3b236622fa6ee75,United States,South,Cassandra Brandow,Florida,Tamarac,33319
+b2e0483d716d4351cc9cb62febb97c43,United States,Central,Kelly Williams,Michigan,Taylor,48180
+c460ff91693bd5b0f9962ac93f707c9b,United States,Central,Kelly Williams,Texas,Harlingen,78550
+86ede4fa718d257f4b398f5dc5ec0e7d,United States,Central,Kelly Williams,Texas,Amarillo,79109
+d0d8d04c9a4f9cf576d13e7a6e33d84e,United States,East,Chuck Magee,Ohio,Grove City,43123
+c01b9178fa2a66eadf2b72b8e0ec14ee,United States,East,Chuck Magee,New York,New York City,10011
+f2257846f8185ea857fad842194054c9,United States,South,Cassandra Brandow,North Carolina,Burlington,27217
+8624f7683dcf970e33558bf9636f1474,United States,South,Cassandra Brandow,Virginia,Richmond,23223
+89b6cd4bcfcb8dd6fe617fa2c8bfcda7,United States,West,Anna Andreadi,California,Santa Ana,92704
+4e619146163f8bbf2598cd6d29669bb0,United States,South,Cassandra Brandow,Alabama,Florence,35630
+14c2e97b5f0e0cd554e4c6a2cbd13bf2,United States,South,Cassandra Brandow,Georgia,Macon,31204
+48d21978e8b19627c7e73c2f531831dc,United States,West,Anna Andreadi,Utah,Pleasant Grove,84062
+f21eee42155ef7bc8345c8fba2a1843f,United States,East,Chuck Magee,Massachusetts,Everett,2149
+50b39a731976ebee5158dafe99d17f64,United States,South,Cassandra Brandow,Tennessee,Smyrna,37167
+d96007343d61a59f1af28fbd91563bb2,United States,Central,Kelly Williams,Indiana,Indianapolis,46203
+ef96ed1a98cbe97543480cb9ab8e57c6,United States,West,Anna Andreadi,Washington,Spokane,99207
+dea8cb97cd6cf87b3dc6a49cb4988fb7,United States,Central,Kelly Williams,Texas,Keller,76248
+4108ad4809fffa719007725d31d04b7a,United States,South,Cassandra Brandow,Florida,Port Orange,32127
+e82a290180db4493a5d0c67e7a93cafd,United States,East,Chuck Magee,Massachusetts,Malden,2148
+c6948ec8ee71ef1019af431c841a8a52,United States,West,Anna Andreadi,California,Vacaville,95687
+4efe38dad0b37f773c43c5252ca06211,United States,East,Chuck Magee,New Jersey,Orange,7050
+132d06473dced22743a1271f99ed4539,United States,East,Chuck Magee,Massachusetts,Revere,2151
+6a8e2d8e4d576a48423e13cc47b3a2fa,United States,Central,Kelly Williams,Illinois,Tinley Park,60477
+31efc8c1730953e6693831e1cde37afe,United States,South,Cassandra Brandow,Florida,Plantation,33317
+e3c7700da1bf3fca6dea9924090c9581,United States,South,Cassandra Brandow,Arkansas,Texarkana,71854
+9288a4c7471c5ee82c0fb3d4970ed368,United States,West,Anna Andreadi,Washington,Covington,98042
+d370b14281dfb271d12ec0e4caced10c,United States,South,Cassandra Brandow,Florida,Hollywood,33021
+a1308c5d698a2bff60cbc47ea1dc75ea,United States,West,Anna Andreadi,Arizona,Avondale,85323
+9f2a52f9ba5551b71b0d2056b68071de,United States,Central,Kelly Williams,Michigan,Holland,49423
+b70998bc50ae8c5f5cac46f5fa1ce043,United States,Central,Kelly Williams,Illinois,Des Plaines,60016
+3ed78b6c2983be0c47acae306771f2da,United States,West,Anna Andreadi,California,Oxnard,93030
+1969662097afbd2e3e6d7ecdd1eb8910,United States,South,Cassandra Brandow,Georgia,East Point,30344
+ca6145e029ab1689354c93b1e450c582,United States,West,Anna Andreadi,California,Los Angeles,90036
+8e8d6e0400e0f52e33076852c4d2e24c,United States,South,Cassandra Brandow,Alabama,Decatur,35601
+200ab6fd690d20a15ca63655e92c47d6,United States,Central,Kelly Williams,Michigan,Saginaw,48601
+43d099eec413a2b756fc39bf496c3eb4,United States,East,Chuck Magee,Massachusetts,Franklin,2038
+72e403a32dcc7f3672b7f2d213a7a6a6,United States,Central,Kelly Williams,Michigan,Rochester Hills,48307
+880e83ac187c3e3d401db374dd049bb3,United States,Central,Kelly Williams,Missouri,Saint Peters,63376
+891612615793a538a43322c74f2d0465,United States,East,Chuck Magee,New York,Yonkers,10701
+ee7ae69c212860b891275b9584346058,United States,Central,Kelly Williams,Texas,Coppell,75019
+f5173c48bb854074f1ca2335eb35d25f,United States,West,Anna Andreadi,Colorado,Broomfield,80020
+b4a1c4c202d652eaa96549098186be5a,United States,West,Anna Andreadi,California,Stockton,95207
+e80a525bc91211d596103368c64d7ec6,United States,East,Chuck Magee,Ohio,Troy,45373
+6e48635609a7b1eb8908e093639e2678,United States,West,Anna Andreadi,California,Redondo Beach,90278
+b9861c4aa3abad353b5f3ed2266b4253,United States,East,Chuck Magee,Pennsylvania,Altoona,16602
+171ddb3481a506b5f0b638460ab279cf,United States,Central,Kelly Williams,Texas,Edinburg,78539
+ecf34e6e1f5146157a5ede4ebb83633a,United States,Central,Kelly Williams,Oklahoma,Broken Arrow,74012
+b97a5a444f6955fd63572a0a35dffee8,United States,Central,Kelly Williams,Iowa,Iowa City,52240
+d6cb6f4678a3c0bd732e4861f25cc7cc,United States,West,Anna Andreadi,Arizona,Bullhead City,86442
+0bf010a1f47fdfb0cf8dfb476bc3a427,United States,Central,Kelly Williams,Indiana,Portage,46368
+9463432fc22c77e31249c6ec82c83c76,United States,West,Anna Andreadi,California,San Gabriel,91776
+7572798f979f27fedc41d63e6868fa66,United States,Central,Kelly Williams,Wisconsin,La Crosse,54601
+059e66ffe61e00a678b7310cfeff2345,United States,Central,Kelly Williams,Illinois,Oak Park,60302
+1dc241dfecd1e18cfc70d737aba6512f,United States,South,Cassandra Brandow,Florida,Jupiter,33458
+43f45495a1050f00263c59854612464c,United States,West,Anna Andreadi,California,Chico,95928
+6a8114975efaa842a9eb68d3a2af0c06,United States,West,Anna Andreadi,California,Redwood City,94061
+6c160c3850b7efb554cb0ae66ca06a22,United States,South,Cassandra Brandow,Florida,Delray Beach,33445
+c9125cb5882892234818d4131ec246e6,United States,West,Anna Andreadi,Oregon,Hillsboro,97123
+6c465dc443ab15df63e66a4b1cb3c982,United States,East,Chuck Magee,Connecticut,Shelton,6484
+03992c379f3785f963e51b9844720438,United States,East,Chuck Magee,Maryland,Hagerstown,21740
+db0f6264af29f8ebf8f517dc45c630d8,United States,West,Anna Andreadi,California,Dublin,94568
+d6e16e064b908775e9044fd764cd165b,United States,West,Anna Andreadi,California,Los Angeles,90032
+752f7409c370a7996344960d2b91749e,United States,Central,Kelly Williams,Wisconsin,Franklin,53132
+a46b354a8f3baf27f78ffae4a1408185,United States,West,Anna Andreadi,California,San Jose,95123
+9492764d40084610fea8e63e23d8e5e1,United States,Central,Kelly Williams,Texas,San Antonio,78207
+83059557773632ebea9f87acbd35ecc9,United States,East,Chuck Magee,Ohio,Medina,44256
+b0b4a3a1db3ec395b336274fc2e00850,United States,West,Anna Andreadi,California,Inglewood,90301
+7073d70aba55fd4bb7d3fe0bef69596a,United States,West,Anna Andreadi,California,Hesperia,92345
+04f60edbbce4d3adb99aba222b56304b,United States,South,Cassandra Brandow,Kentucky,Richmond,40475
+ae9a7974b8d66ba9e965180d0f802f19,United States,East,Chuck Magee,New York,Auburn,13021
+bc6852de17d0aa18d29f78fe2c0afc9f,United States,Central,Kelly Williams,Illinois,Park Ridge,60068
+ead9ce924536c2f3086bb4d9f29dc067,United States,Central,Kelly Williams,Texas,Huntsville,77340
+40abca72cbbbbcdeafc830592227b015,United States,West,Anna Andreadi,California,Costa Mesa,92627
+9f88aa3b25ad8b6495aac45bf36e832c,United States,West,Anna Andreadi,Montana,Great Falls,59405
+6b37c3a6c60c87a13a2d23fa4b9c5303,United States,West,Anna Andreadi,Arizona,Mesa,85204
+ff46fd6ba628d5a34f092900662e391b,United States,Central,Kelly Williams,Illinois,Chicago,60653
+fbe11aca9623ffa1c3fa33caf9850bc4,United States,South,Cassandra Brandow,North Carolina,Cary,27511
+60c3f05c5fd245549c9e48d2d7c34859,United States,East,Chuck Magee,New York,Mount Vernon,10550
+5c60ffb4dcfb8ef0528372c3af769b30,United States,South,Cassandra Brandow,Arkansas,Jonesboro,72401
+85464c55be8098f29d9f9edc679712df,United States,Central,Kelly Williams,Indiana,Richmond,47374
+d570d11a468f9e0aa9a5761453d0b551,United States,South,Cassandra Brandow,Florida,Homestead,33030
+7526158b8c9d16ab6b110f1e5b4b0f11,United States,West,Anna Andreadi,California,Fresno,93727
+627eeb248fe896d9c7eabd77ec829928,United States,South,Cassandra Brandow,Florida,Deltona,32725
+ec2065a56394fad04f7a19e923d08214,United States,East,Chuck Magee,New York,Freeport,11520
+ae85639640260b698078b48ce4f96d0f,United States,West,Anna Andreadi,Arizona,Glendale,85301
+4ce3f2ec1c9c3355c1c40b07c4417e6b,United States,West,Anna Andreadi,Oregon,Tigard,97224
+8e1679ed53dafcfc88f658a8390a9a82,United States,West,Anna Andreadi,Washington,Auburn,98002
+cda159b8a113d3d3fa0a6f32c1630606,United States,East,Chuck Magee,Vermont,Burlington,N/A
+da51fed24af5be38cc29384874649cb8,United States,South,Cassandra Brandow,Mississippi,Southaven,38671
+aa9220bf478f50a5cee36424d78b4a54,United States,West,Anna Andreadi,California,Thousand Oaks,91360
+0591d795ba1c0c56c034738389f015cb,United States,West,Anna Andreadi,Nevada,Sparks,89431
+d3f9ec4afe188a0b32a76b0ffd797e59,United States,East,Chuck Magee,Rhode Island,Woonsocket,2895
+8cb6a1e6bd4aa5ab849c9010d81c7742,United States,South,Cassandra Brandow,Virginia,Hampton,23666
+e96c94c95e1fe9f3ae924c2485aea1e2,United States,South,Cassandra Brandow,Mississippi,Hattiesburg,39401
+b98b16080f6b7a1a93adee76bec96ac2,United States,South,Cassandra Brandow,Alabama,Tuscaloosa,35401
+e206305d2471296364c9decfb180bf5e,United States,West,Anna Andreadi,Colorado,Loveland,80538
+541fe73916235a1cc82a196f1e07016a,United States,Central,Kelly Williams,Michigan,Oak Park,48237
+5174596645215fc933ed0634ce6bdc01,United States,West,Anna Andreadi,California,La Mesa,91941
+0c6229d480688cf8c0e41f46de937aa0,United States,Central,Kelly Williams,Illinois,Buffalo Grove,60089
+aed4d3dbbd54a4eca795759f1d44487c,United States,South,Cassandra Brandow,Louisiana,Kenner,70065
+7a3b338248f470846deccd3ebed78ef9,United States,West,Anna Andreadi,Washington,Everett,98208
+b050ab2167ed985f742fb5cebead3bb7,United States,West,Anna Andreadi,California,El Cajon,92020
+466aaa7f41c4ff3b1382ed87823941bb,United States,West,Anna Andreadi,California,Modesto,95351
+203c15ff25f579208013e7c5c520e89f,United States,East,Chuck Magee,West Virginia,Wheeling,26003
+2495d14039d49ec40263b3b9c4c24fcf,United States,West,Anna Andreadi,Idaho,Twin Falls,83301
+e530dc491449bc5e6ddda47d91352158,United States,South,Cassandra Brandow,Florida,Melbourne,32935
+243e3e51f621ff23178471953068cd32,United States,Central,Kelly Williams,Minnesota,Minneapolis,55407
+959e05112bcb5b116b41ce566bacc170,United States,West,Anna Andreadi,Colorado,Aurora,80013
+334a2ea3b505e78a02508177f67e15f8,United States,East,Chuck Magee,New York,New York City,10035
+9219b635d68110e87f55982e5b101a7a,United States,Central,Kelly Williams,Missouri,Independence,64055
+99e87fe8a8fef57ce77f8bee5dfed066,United States,South,Cassandra Brandow,Tennessee,Franklin,37064
+97fbeb3280da922d90dc66fff526fe9b,United States,Central,Kelly Williams,Michigan,Detroit,48227
+1073c81405c389b4860ef598ff589925,United States,East,Chuck Magee,Ohio,Cincinnati,45231
+1409d277157bae400b34edb37e28ea5f,United States,West,Anna Andreadi,California,San Francisco,94110
+e366c349cc07e080b81006a0b4614972,United States,West,Anna Andreadi,California,Long Beach,90805
+2ad80549db802917701f0ec94631721b,United States,West,Anna Andreadi,California,Huntington Beach,92646
+54a570dd3fd36003e55d5a8bcdeeefd8,United States,Central,Kelly Williams,Missouri,Gladstone,64118
+cf1d975758454ce1ad6928a05d9844b9,United States,South,Cassandra Brandow,Florida,Palm Coast,32137
+ca9a46e2462078dd4d2d006e0c9da91f,United States,East,Chuck Magee,New York,Oceanside,11572
+028106454525277528275733f5690b75,United States,West,Anna Andreadi,California,Lake Elsinore,92530
+cec04345f4f1f1a8e8aeebb34ee7ec0f,United States,Central,Kelly Williams,Nebraska,Omaha,68104
+f118d26947aabb0377652c346545f83b,United States,West,Anna Andreadi,California,Salinas,93905
+447053cb65849c923a66f2439339049b,United States,East,Chuck Magee,Pennsylvania,Lancaster,17602
+3d4a2106a1a3929a92b3a707846f48b5,United States,West,Anna Andreadi,New Mexico,Farmington,87401
+c63ce96653143140b769836b84c15441,United States,Central,Kelly Williams,Michigan,Lansing,48911
+fb5ebc2e61183fc98be3e8d0c8d860da,United States,South,Cassandra Brandow,Florida,Coral Springs,33065
+c8a32745a98efd4f0327ea64b9311d72,United States,Central,Kelly Williams,Iowa,Cedar Rapids,52402
+e59468201ccc6bef50bbbf1b79a2960e,United States,East,Chuck Magee,New Jersey,Bridgeton,8302
+f59c4142d7d2b3469cdbb69217b24f72,United States,Central,Kelly Williams,Texas,Allen,75002
+eb864b587b7dbe791fc64a3cf26b2785,United States,Central,Kelly Williams,Texas,Plano,75023
+9cf37007f8d7258bfa9be508749262e8,United States,South,Cassandra Brandow,North Carolina,Greensboro,27405
+4c06df3b7b0a5df62e8b9efb0f0926fd,United States,West,Anna Andreadi,Montana,Bozeman,59715
+305de718ae090ff6614305073e9c8939,United States,East,Chuck Magee,Pennsylvania,York,17403
+7ee055961347ab8f334ca9d37e7ec630,United States,Central,Kelly Williams,Illinois,Highland Park,60035
+8ac5eff041bae6060e0d54fdf05d0d73,United States,West,Anna Andreadi,New Mexico,Santa Fe,87505
+c111296a9749c1df5e32f674a2df6179,United States,Central,Kelly Williams,Texas,Baytown,77520
+0dccb58401603665e4a24cf2b3d63525,United States,Central,Kelly Williams,Michigan,Mount Pleasant,48858
+d5fbc68f061c664fa90a6f12e631b0bb,United States,East,Chuck Magee,Maine,Lewiston,4240
+0b699537d732dab538970f9fea42fdb7,United States,West,Anna Andreadi,Arizona,Yuma,85364
+19b85f7932d29670f65eeaa91adb184e,United States,South,Cassandra Brandow,Florida,Pensacola,32503
+d6814b35168e70bc49b19e2f979e4d37,United States,Central,Kelly Williams,Minnesota,Woodbury,55125
+fc6f3a5b9cc144986eae90ac0e29f664,United States,East,Chuck Magee,New York,Utica,13501
+3e597ce44db003dba9447822791266cc,United States,West,Anna Andreadi,Idaho,Caldwell,83605
+106813aaca770f77052bad6cb284dc53,United States,West,Anna Andreadi,Washington,Longview,98632
+6692004d6fde92d3e3abecefe7d381ff,United States,South,Cassandra Brandow,Florida,Sanford,32771
+9301dc8305ad828c6162fa5ec8c144e4,United States,West,Anna Andreadi,Colorado,Greeley,80634
+183a03a0f15a88c1da1c366332ecd5aa,United States,East,Chuck Magee,Ohio,Mason,45040
+2537a73b7a5a966891505783377fce5a,United States,South,Cassandra Brandow,Virginia,Springfield,22153
+b7ec6fb8c44e9cf1a70379daacdd7298,United States,South,Cassandra Brandow,South Carolina,Columbia,29203
+a9b7ad0ff6483e6704a2bbd4a4de1c71,United States,West,Anna Andreadi,Washington,Seattle,98115
+fde342a798fc8164b45b7c257a93e1d4,United States,Central,Kelly Williams,Oklahoma,Edmond,73034
+459858325a7664fd7e08c6dd1f500abc,United States,Central,Kelly Williams,Illinois,Decatur,62521
+a3b4213ddd04d7c1c4e93bbbde414846,United States,South,Cassandra Brandow,Florida,Tampa,33614
+fd86f4cb5885006b69e886926f71b291,United States,West,Anna Andreadi,Colorado,Colorado Springs,80906
+4cf2a4c0835d012120c9e14a8f4492cf,United States,South,Cassandra Brandow,Tennessee,Murfreesboro,37130
+6fc21bffa421a2386bed7cbf5dba0298,United States,East,Chuck Magee,Massachusetts,Lawrence,1841
+fc5f34394e7fec8655310a2f8d2078b4,United States,Central,Kelly Williams,Oklahoma,Norman,73071
+4f6b4c550fdb87b743f3e28dd34c0a1a,United States,West,Anna Andreadi,California,San Diego,92024
+470db7f5181f23086841377fd07f63ae,United States,Central,Kelly Williams,Michigan,Detroit,48234
+db70f1cf51841cbbdffa85404cda8d11,United States,West,Anna Andreadi,Washington,Vancouver,98661
+b6afb35f73c168809aafba4546261c7c,United States,Central,Kelly Williams,Texas,Dallas,75081
+197ca25f8a6a3bb9d8c1088892a4b138,United States,Central,Kelly Williams,Illinois,Evanston,60201
+3702f56956606a28ad6e18f3c597b94f,United States,East,Chuck Magee,Ohio,Toledo,43615
+bdc4f61e08efefa3cbe9f75be7ba5ac4,United States,West,Anna Andreadi,California,Oceanside,92054
+3e7e37f796b2da29511d0a1280a5f96a,United States,Central,Kelly Williams,Illinois,Rockford,61107
+6b7b0c1ca3bb1e60cb0a1f40c4e317c3,United States,South,Cassandra Brandow,Georgia,Roswell,30076
+0e85a3a605fa89ed664224d01bfd236c,United States,West,Anna Andreadi,California,Escondido,92025
+f42d7e41cf1d32b497cd93643b7f3648,United States,East,Chuck Magee,New York,Buffalo,14215
+6a09bc383c375c956d38a9fad088a5a3,United States,South,Cassandra Brandow,Florida,Boynton Beach,33437
+48c23099c3b4af944dd91def1f72efba,United States,Central,Kelly Williams,Texas,Carrollton,75007
+24edae2312cfafbd1592be9d8d272212,United States,South,Cassandra Brandow,North Carolina,Fayetteville,28314
+58c26b9a94a853eace81d9c0aea8d270,United States,East,Chuck Magee,Ohio,Fairfield,45014
+bf64df081943272ddf1969e6a328b5ec,United States,West,Anna Andreadi,California,Ontario,91761
+36b69872dd16fed60ddf693b3cf5140c,United States,Central,Kelly Williams,Texas,College Station,77840
+67e0cd0815655b884e8e9a89951a2a7c,United States,Central,Kelly Williams,Texas,San Angelo,76903
+4d0dfabe3cf4a4cd4129a36050a6d399,United States,South,Cassandra Brandow,Virginia,Newport News,23602
+c0c7ca6f2cff0fa1e6402bc3360d9009,United States,Central,Kelly Williams,Illinois,Wheeling,60090
+ebab8ffc935be9342bdae732b2036634,United States,Central,Kelly Williams,Texas,Frisco,75034
+d5851397d26441b86729e96f6f100599,United States,Central,Kelly Williams,Indiana,Noblesville,46060
+ddb1290f5743640506b1a60787505895,United States,South,Cassandra Brandow,South Carolina,Mount Pleasant,29464
+d14ab1de94d71db52785defc98c4c265,United States,Central,Kelly Williams,Texas,Pharr,78577
+2ec8c3d37f3b281e2b5c9d93af3f1960,United States,West,Anna Andreadi,California,Woodland,95695
+a1dfe2530fa51e66e9c7536cbb9d2176,United States,Central,Kelly Williams,Kansas,Overland Park,66212
+bc342c5120464d89adaa594456b0f0dc,United States,West,Anna Andreadi,Colorado,Thornton,80229
+110885805ce1e38def3b58a0e6161a3f,United States,Central,Kelly Williams,North Dakota,Fargo,58103
+3dfba4b949c23f25abd46a012ac75158,United States,Central,Kelly Williams,Oklahoma,Lawton,73505
+36088cbf01d82ecb1d0a9403daccb259,United States,Central,Kelly Williams,Wisconsin,Wausau,54401
+7ff004f1a00466c62f132abffe3a1b52,United States,West,Anna Andreadi,Arizona,Chandler,85224
+40d6f1a0aeb115eda64fb5d00c376a40,United States,Central,Kelly Williams,Michigan,Roseville,48066
+52aa50b64676207b1427badaeefce815,United States,Central,Kelly Williams,Nebraska,Grand Island,68801
+d7a098010409099f4a083fb1227d5a71,United States,West,Anna Andreadi,California,Santa Barbara,93101
+74f272e84408028bc094ef6223af930b,United States,West,Anna Andreadi,Wyoming,Cheyenne,82001
+52cdfd67bb20a95de4101f1046383ead,United States,West,Anna Andreadi,California,Santa Maria,93454
+24fc79542906cb9ab4726e12cb1b6d10,United States,West,Anna Andreadi,Washington,Renton,98059
+c7bbe52246b463430298b9b74b021061,United States,Central,Kelly Williams,Illinois,Romeoville,60441
+2477dffd4cc22777a720afc357b10aed,United States,Central,Kelly Williams,Illinois,Oswego,60543
+4e33da60d9ada06119c3d9983410e216,United States,West,Anna Andreadi,California,San Luis Obispo,93405
+8bb547eb865977ef7e5f197a039bd6e8,United States,West,Anna Andreadi,California,San Francisco,94109
+c1092f1aedd6ad6a2693d4d64728a5a3,United States,West,Anna Andreadi,California,Los Angeles,90049
+9d9b317437a6fa0b742c6726311fcb22,United States,Central,Kelly Williams,Indiana,New Albany,47150
+51f8cbac109bd3e894529c93c826dee4,United States,West,Anna Andreadi,California,San Francisco,94122
+54c319ce7f4716ddad2bac918912d3fb,United States,Central,Kelly Williams,Minnesota,Rochester,55901
+a5a60993b7033adc0e0f28e0d929d548,United States,Central,Kelly Williams,Illinois,Orland Park,60462
+243344d9297bf5ec28ed7f145d19cfeb,United States,South,Cassandra Brandow,Tennessee,Columbia,38401
+05f727b62e7874614bc171ed33c5dea0,United States,Central,Kelly Williams,Michigan,Canton,48187
+31682b1da25152ea62e38ef0913ab752,United States,East,Chuck Magee,New York,Rochester,14609
+962209b84b4ad8619dfc493850e72a33,United States,South,Cassandra Brandow,Georgia,Atlanta,30318
+79496bae3e7286b5d80bcd8795075812,United States,South,Cassandra Brandow,Alabama,Montgomery,36116
+88db428b8b8dfd351303ed3692f5a744,United States,West,Anna Andreadi,California,Riverside,92503
+82c93ebaffcce9c4b9badc7e654cffec,United States,South,Cassandra Brandow,Florida,Boca Raton,33433
+b7617e80d57ba0164e2135d7c2349d4d,United States,West,Anna Andreadi,California,Murrieta,92563
+9d44108cc9e8b45cc47800a3eb278bd4,United States,South,Cassandra Brandow,Florida,Miami,33142
+b18aaf16d446b0637f469f641db01037,United States,West,Anna Andreadi,California,Antioch,94509
+bf03b0fb079b24da798d3d2c3b777367,United States,Central,Kelly Williams,Indiana,La Porte,46350
+3f0fa9ea75202b5ccc4895fb4d0dd2d2,United States,South,Cassandra Brandow,Virginia,Salem,24153
+ed5cd25b4c891f9e1bc09da63193f82d,United States,South,Cassandra Brandow,Alabama,Mobile,36608
+5c69e560a6ef4ab73432c1d56c85bd10,United States,Central,Kelly Williams,Kansas,Olathe,66062
+a652a21bc46f4df8302234ba38c3d3ca,United States,South,Cassandra Brandow,Kentucky,Bowling Green,42104
+877f2cc8e6e4c54da3677b81e3718032,United States,South,Cassandra Brandow,Florida,Apopka,32712
+12bd53ce761c3f4fa0cbc6a8b7763447,United States,Central,Kelly Williams,Illinois,Elmhurst,60126
+6e78f8e283b8b5535760f223e0c3da5b,United States,East,Chuck Magee,New Jersey,Passaic,7055
+53cb12d53c70e905cf120a76cd2afea0,United States,South,Cassandra Brandow,South Carolina,North Charleston,29406
+719081c040b1ec14232271dd90fa0ccf,United States,Central,Kelly Williams,Illinois,Woodstock,60098
+6fd12e870aa3c6bca84b98df4d099969,United States,Central,Kelly Williams,Minnesota,Apple Valley,55124
+db61e28856a6e1c193e3e37b72f82da0,United States,Central,Kelly Williams,Texas,Pearland,77581
+213829b797f953a9520afa4224c4e4d9,United States,Central,Kelly Williams,Indiana,Lawrence,46226
+50e1df55ea9e5e8b565b7b9dd5949b84,United States,West,Anna Andreadi,California,Chula Vista,91911
+2d2cede6289ad1afb78865431a62bf25,United States,Central,Kelly Williams,Texas,Bedford,76021
+38f9eeb1caf5443e43fd3d34511c0805,United States,South,Cassandra Brandow,Arkansas,Rogers,72756
+3e1d7ff624516906a1f838f1f07d40c0,United States,West,Anna Andreadi,California,Lake Forest,92630
+1479c0f358279bab91dc194fb1307966,United States,South,Cassandra Brandow,North Carolina,Goldsboro,27534
+4d53cf9cddb143f280457614973c1a13,United States,East,Chuck Magee,New Jersey,Atlantic City,8401
+53aac4f2d96b70715ccf5e31b8f67358,United States,West,Anna Andreadi,California,Davis,95616
+4f07d6d9898a3b8070d8091900dcdd37,United States,East,Chuck Magee,New Jersey,Clifton,7011
+eaa4e3f2bb477b99a681184c07b7da1a,United States,Central,Kelly Williams,Texas,Mansfield,76063
+46558a791bbeadd9742dacc3a3b301ea,United States,West,Anna Andreadi,California,San Clemente,92672

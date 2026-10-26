@@ -1,0 +1,72 @@
+// Power BI DAX Measures for Superstore Sales & Profitability Model
+// Relationships (Single direction):
+// fact_sales[order_date]  -> dim_date[date]
+// fact_sales[product_id]  -> dim_product[product_id]
+// fact_sales[customer_id] -> dim_customer[customer_id]
+// fact_sales[location_id] -> dim_location[location_id]
+
+Total Sales = SUM ( fact_sales[sales] )
+
+Total Profit = SUM ( fact_sales[profit] )
+
+Profit Margin % = DIVIDE ( [Total Profit], [Total Sales], 0 )
+
+Total Items Sold = SUM ( fact_sales[quantity] )
+
+Orders Count = DISTINCTCOUNT ( fact_sales[order_id] )
+
+Average Discount % = AVERAGE ( fact_sales[discount] )
+
+// Loss Analysis: Measuring bleeding margin
+Loss Making Sales = 
+CALCULATE (
+    [Total Sales],
+    fact_sales[is_loss] = TRUE ()
+)
+
+Total Dollars Lost = 
+CALCULATE (
+    ABS ( [Total Profit] ),
+    fact_sales[is_loss] = TRUE ()
+)
+
+Loss Sales Ratio % = DIVIDE ( [Loss Making Sales], [Total Sales], 0 )
+
+// Toxic Discount Impact (>20% Discount)
+Toxic Discount Sales = 
+CALCULATE (
+    [Total Sales],
+    fact_sales[is_toxic_discount] = TRUE ()
+)
+
+Toxic Discount Profit = 
+CALCULATE (
+    [Total Profit],
+    fact_sales[is_toxic_discount] = TRUE ()
+)
+
+// Regional Baseline Comparison
+National Profit Margin % = 
+CALCULATE (
+    [Profit Margin %],
+    REMOVEFILTERS ( dim_location )
+)
+
+Excess Loss vs National = 
+VAR SubcatSales = [Total Sales]
+VAR ExpectedProfit = SubcatSales * [National Profit Margin %]
+RETURN MIN ( 0, [Total Profit] - ExpectedProfit )
+
+// Cumulative 80/20 Pareto Contribution
+Cumulative Customer Profit = 
+VAR CurrentProfit = [Total Profit]
+VAR AllCustomers = 
+    ADDCOLUMNS (
+        ALLSELECTED ( dim_customer[customer_id] ),
+        "@Prof", [Total Profit]
+    )
+RETURN
+    SUMX (
+        FILTER ( AllCustomers, [@Prof] >= CurrentProfit ),
+        [@Prof]
+    )

@@ -1,0 +1,193 @@
+{
+  "kpis": {
+    "total_order_items": 9994,
+    "total_orders": 5009,
+    "total_customers": 793,
+    "gmv_sales": 2297201.03,
+    "total_profit": 286397.61,
+    "profit_margin_pct": 12.47,
+    "avg_discount_pct": 15.62,
+    "loss_items_count": 1871,
+    "loss_items_pct": 18.72,
+    "total_lost_dollars": 156131.84
+  },
+  "discount_tiers": [
+    {
+      "discount_tier": "0% None",
+      "items": 4798,
+      "sales": 1087908.47,
+      "profit": 320987.77,
+      "margin_pct": 29.51,
+      "loss_rate_pct": 0.0
+    },
+    {
+      "discount_tier": "1-10% Low",
+      "items": 94,
+      "sales": 54369.3,
+      "profit": 9029.21,
+      "margin_pct": 16.61,
+      "loss_rate_pct": 4.26
+    },
+    {
+      "discount_tier": "11-20% Moderate",
+      "items": 3709,
+      "sales": 792152.87,
+      "profit": 91757.07,
+      "margin_pct": 11.58,
+      "loss_rate_pct": 13.99
+    },
+    {
+      "discount_tier": ">20% Toxic",
+      "items": 1393,
+      "sales": 362770.39,
+      "profit": -135376.44,
+      "margin_pct": -37.32,
+      "loss_rate_pct": 96.77
+    }
+  ],
+  "regions": [
+    {
+      "region": "Central",
+      "regional_manager": "Kelly Williams",
+      "items": 2323,
+      "sales": 501239.87,
+      "profit": 39706.44,
+      "margin_pct": 7.92,
+      "avg_discount_pct": 24.04,
+      "total_loss_dollars": -56315.02
+    },
+    {
+      "region": "South",
+      "regional_manager": "Cassandra Brandow",
+      "items": 1620,
+      "sales": 391721.89,
+      "profit": 46749.69,
+      "margin_pct": 11.93,
+      "avg_discount_pct": 14.73,
+      "total_loss_dollars": -27504.87
+    },
+    {
+      "region": "East",
+      "regional_manager": "Chuck Magee",
+      "items": 2848,
+      "sales": 678781.34,
+      "profit": 91522.74,
+      "margin_pct": 13.48,
+      "avg_discount_pct": 14.54,
+      "total_loss_dollars": -49590.83
+    },
+    {
+      "region": "West",
+      "regional_manager": "Anna Andreadi",
+      "items": 3203,
+      "sales": 725457.93,
+      "profit": 108418.74,
+      "margin_pct": 14.94,
+      "avg_discount_pct": 10.93,
+      "total_loss_dollars": -22721.12
+    }
+  ],
+  "bottom_subcategories": [
+    {
+      "sub_category": "Tables",
+      "category": "Furniture",
+      "items": 319,
+      "sales": 206965.67,
+      "profit": -17725.58,
+      "margin_pct": -8.56,
+      "avg_discount_pct": 26.13,
+      "loss_dollars": -32412.23
+    },
+    {
+      "sub_category": "Bookcases",
+      "category": "Furniture",
+      "items": 228,
+      "sales": 114880.05,
+      "profit": -3472.57,
+      "margin_pct": -3.02,
+      "avg_discount_pct": 21.11,
+      "loss_dollars": -12152.3
+    },
+    {
+      "sub_category": "Supplies",
+      "category": "Office Supplies",
+      "items": 190,
+      "sales": 46673.52,
+      "profit": -1189.0,
+      "margin_pct": -2.55,
+      "avg_discount_pct": 7.68,
+      "loss_dollars": -3015.62
+    },
+    {
+      "sub_category": "Fasteners",
+      "category": "Office Supplies",
+      "items": 217,
+      "sales": 3024.25,
+      "profit": 949.53,
+      "margin_pct": 31.4,
+      "avg_discount_pct": 8.2,
+      "loss_dollars": -33.19
+    },
+    {
+      "sub_category": "Machines",
+      "category": "Technology",
+      "items": 115,
+      "sales": 189238.67,
+      "profit": 3384.73,
+      "margin_pct": 1.79,
+      "avg_discount_pct": 30.61,
+      "loss_dollars": -30118.72
+    }
+  ],
+  "toxic_thresholds": [
+    {
+      "sub_category": "Binders",
+      "break_even_discount_pct": 45.7,
+      "current_avg_discount_pct": 37.2,
+      "r2": 0.057,
+      "total_profit": 30221.64,
+      "total_loss": -38510.64
+    },
+    {
+      "sub_category": "Tables",
+      "break_even_discount_pct": 20.0,
+      "current_avg_discount_pct": 26.1,
+      "r2": 0.451,
+      "total_profit": -17725.58,
+      "total_loss": -32412.23
+    },
+    {
+      "sub_category": "Machines",
+      "break_even_discount_pct": 31.8,
+      "current_avg_discount_pct": 30.6,
+      "r2": 0.339,
+      "total_profit": 3384.73,
+      "total_loss": -30118.72
+    },
+    {
+      "sub_category": "Bookcases",
+      "break_even_discount_pct": 18.5,
+      "current_avg_discount_pct": 21.1,
+      "r2": 0.369,
+      "total_profit": -3472.57,
+      "total_loss": -12152.3
+    },
+    {
+      "sub_category": "Chairs",
+      "break_even_discount_pct": 23.2,
+      "current_avg_discount_pct": 17.0,
+      "r2": 0.35,
+      "total_profit": 26590.15,
+      "total_loss": -9880.95
+    }
+  ],
+  "regression": {
+    "intercept": 31.999,
+    "discount_linear_coef": -379.542,
+    "discount_linear_se_hc3": 32.944,
+    "discount_quad_coef": 220.774,
+    "discount_quad_se_hc3": 63.065,
+    "sales_coef": 0.179,
+    "sales_se_hc3": 0.0539
+  }
+}
