@@ -22,6 +22,31 @@ Analysis of **9,994 order line items** ($2.30M gross sales) from the Tableau Sam
 
 **So what:** Impose an immediate 15% hard-cap on discounts for *Tables* and *Bookcases*, and restructure B2B contract terms in Texas and Illinois. This recovers **$42k–$65k annually** with zero impact on healthy baseline demand.
 
+## 📖 Business Storytelling & Problem Statement
+
+### 1. Tình huống kích hoạt (The Trigger Scenario)
+Tại cuộc họp tổng kết tài chính thường niên, **Phó Tổng Giám đốc Kinh doanh (VP of Sales)** tự hào công bố doanh số kỷ lục **$2.30 triệu USD**, tăng trưởng hơn 20% so với cùng kỳ và vượt mọi chỉ tiêu KPI bán hàng. Tuy nhiên, **Giám đốc Tài chính (CFO)** lập tức chất vấn:
+> *"Nếu doanh số tăng trưởng rực rỡ như vậy, tại sao dòng tiền tự do (Free Cash Flow) của công ty lại ngày càng teo tóp? Lợi nhuận ròng của chúng ta đã bốc hơi đi đâu? Có phải chúng ta đang bỏ tiền túi ra để trả tiền cho khách hàng mua hàng?"*
+
+Data Analyst được giao nhiệm vụ khẩn cấp từ Ban Giám đốc: Rà soát toàn bộ 9,994 giao dịch để tìm ra nguyên nhân chính xác vì sao doanh thu tăng nhưng lợi nhuận không tăng.
+
+### 2. Xung đột nghiệp vụ & Bẫy ngộ nhận (The Core Problem & Conflict)
+* **Xung đột phòng ban:**
+  * **Sales Team:** Bị áp lực chỉ tiêu doanh số nên liên tục áp dụng các mức giảm giá sâu (30% - 80%) cho các khách hàng doanh nghiệp B2B lớn ở Texas và Illinois nhằm "đóng deal chốt số". Đội ngũ kinh doanh tin rằng: *"Bán rẻ để lấy sản lượng lớn (volume), chấp nhận bán hòa vốn sản phẩm này để kéo các sản phẩm khác (Loss-Leader strategy)."*
+  * **Finance Team:** Báo động đỏ vì biên lợi nhuận ròng toàn công ty bị kéo tụt xuống mức nguy hiểm (12.4%), chi phí vốn và chi phí lưu kho của nhóm nội thất cồng kềnh ăn mòn toàn bộ thặng dư.
+* **Bẫy ngộ nhận (False Intuition):** Ban lãnh đạo từng tin rằng *"Càng chiết khấu thì tổng số tiền lãi tuyệt đối mang về càng lớn"*.
+
+### 3. Cung bậc câu chuyện dữ liệu (The Data Story Arc)
+* **Hồi 1 - Ảo tưởng ban đầu (The False Comfort):** Tổng doanh thu đạt $2.30M, tổng lợi nhuận sổ sách dương $286k, nhìn qua bảng cân đối kế toán tổng hợp không thấy dấu hiệu khủng hoảng.
+* **Hồi 2 - Vết nứt xuất hiện (The Investigation):** Khi phân tầng dữ liệu theo 4 bậc chiết khấu (0%, 1-10%, 11-20%, >20%), dữ liệu bộc lộ một **vực thẳm phi tuyến tính**: Khi bán nguyên giá (0% discount), biên lợi nhuận đạt **+29.9%** rất lành mạnh; khi chiết khấu 11-20%, biên lợi nhuận vẫn đạt **+18.3%**. Nhưng ngay khi vượt qua mốc 20%, biên lợi nhuận **sụp đổ xuống -38.2%**!
+* **Hồi 3 - Điểm bùng nổ "Aha!" (The Naked Truth):** 
+  * Trong toàn bộ công ty, có tới **1,871 đơn hàng (18.7%)** bị bán lỗ, trực tiếp thiêu rụi **$156,132 USD** lợi nhuận ròng!
+  * Vết thương lớn nhất nằm ở khu vực **Central** do Giám đốc vùng Kelly Williams quản lý (biên lợi nhuận chỉ đạt **7.92%**, bằng một nửa vùng West). Riêng ngành hàng *Furniture* tại Central đã đốt sạch **-$17,725 USD**. Khách hàng B2B ở Texas và Illinois săn lùng các đợt giảm giá 70-80% để mua bàn ghế giá rẻ mà không hề mua kèm bất kỳ thiết bị văn phòng có lãi nào. Chiến lược "Loss-Leader" hoàn toàn thất bại!
+* **Hồi 4 - Tháo gỡ nút thắt (The Strategic Resolution):** Dữ liệu thống kê chứng minh điểm hòa vốn (*Break-even discount*) của *Tables* là 16.2% và *Bookcases* là 17.8%. Đề xuất chính sách:
+  1. Cài đặt **Hard-cap trần chiết khấu 15%** cố định trên hệ thống CRM/ERP cho các mặt hàng bàn ghế. Mọi mức giảm giá trên 15% phải có chữ ký phê duyệt của CFO.
+  2. Thay thế hình thức giảm giá trực tiếp (front-end discount) bằng chiết khấu hoàn trả cuối năm theo hạn mức doanh số (Volume Rebate) cho khách hàng B2B.
+* **Hồi 5 - Tác động kinh doanh (The Business Impact):** Bảo toàn lượng khách hàng trung thành, loại bỏ 100% các đơn hàng lỗ toxic, thu hồi ngay lập tức **$42,000 – $65,000 lợi nhuận ròng mỗi năm**, nâng biên lợi nhuận toàn công ty từ 12.5% lên 15.1%.
+
 ## Architecture & Method
 
 1. **Model** (`sql/00_model.sql`, DuckDB): Grain is 1 row per order item. Reconciles COGS, calculates list price undiscounted sales, flags toxic discounts (>20%), and joins regional manager metadata and order return status.
